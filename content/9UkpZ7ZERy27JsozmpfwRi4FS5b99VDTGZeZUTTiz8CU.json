@@ -1,0 +1,35 @@
+{
+  "name": "Name wtweki",
+  "description": "Description yenu5",
+  "property_1": {
+    "blueId": "GLpDG2X5JuzjRdVypuHELeemjTB6HpBnEdKWx9KzR3Fg"
+  },
+  "property_2": {
+    "blueId": "D8JckcCJh9h14Q9DHvTTWq74mFfJrCa7CbfPFmDbdZGM"
+  },
+  "property_3": {
+    "name": "Products 6pzq6d",
+    "products": {
+      "items": [
+        {
+          "blueId": "AEW8Ze5C5KZwaVX17a5ZR2fAuCrTe6uwdKMDvk7hXpQ1"
+        },
+        {
+          "blueId": "BnhdJXp2FdXeksB1gUqvrMDtLm88ZjtXKPvNL4Spvptd"
+        }
+      ]
+    },
+    "property_3_1": {
+      "blueId": "2uGXDVDuuvtz2HV6DgH4a7q1sy8H9iHPGahnhNPyVX1e"
+    },
+    "property_3_2": {
+      "blueId": "3Hhb5nfrBeZoCuarZ2ntpDyPbxduYgMT7qQGiGujJN4F"
+    },
+    "property_3_3": {
+      "blueId": "AazuGQwFkinBMt638wYmtLNiXiCtFTVaZcvQcc7kHVqx"
+    }
+  },
+  "property_4": {
+    "blueId": "HSa2v6Gq6yZ9MpLiEDA2FqqD4jQAkoPTvL8ejgisojEw"
+  }
+}
